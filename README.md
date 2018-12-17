@@ -2,6 +2,14 @@
 
 A distributed NLP pipeline for Elixir using spaCy
 
+## Prerequisites
+
+1. Python 3 
+
+2. spaCy - NLP library for Python
+
+3. Elixir programming language (1.3.4 or greater) and the Mix build tool 
+
 ## Installation
 
 1. Clone repository:
