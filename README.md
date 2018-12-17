@@ -4,21 +4,25 @@ A distributed NLP pipeline for Elixir using spaCy
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+1. Clone repository:
 
-  1. Add `spaCex` to your list of dependencies in `mix.exs`:
+```$ git clone https://github.com/anglus/spaCex.git```
 
-    ```elixir
-    def deps do
-      [{:spaCex, "~> 0.1.0"}]
-    end
-    ```
+2. Change directories and install dependencies: 
 
-  2. Ensure `spaCex` is started before your application:
+```$ cd spaCex```
+```$ mix deps.get```
 
-    ```elixir
-    def application do
-      [applications: [:spaCex]]
-    end
-    ```
+3. Add ErlPort to Python (Your Python library package directory may be different):
+
+```$ sudo cp -r deps/erlport/priv/python2/erlport/ /usr/lib64/python3.5/site-packages/```
+```$ sudo cp -r deps/erlport/priv/python3/erlport/ /usr/lib64/python3.5/site-packages/```
+
+4. (Optional) Edit lib/spaCex.ex to change the number of workers:
+```{:size, 6},```
+
+5. Run application:
+
+```$ mix run lib/run.exs```
+
 
