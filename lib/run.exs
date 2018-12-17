@@ -11,7 +11,7 @@ defmodule Run do
 end
 
 # Input file
-infile = "./data/2009q2.txt"
+infile = "./data/spectrum_ai.txt"
 
 # Starting point for application: pass input file path to Main module
 Main.start infile

@@ -1,0 +1,3 @@
+2009q2.txt - https://www.sec.gov/dera/data/financial-statement-and-notes-data-set.html
+neo4j.txt - https://news.crunchbase.com/news/open-source-powered-neo4j-raises-80m-series-e/ 
+spectrum_ai.txt - https://www.eweek.com/storage/ibm-nvidia-partner-on-converged-system-for-ai-workloads 

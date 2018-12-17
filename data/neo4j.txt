@@ -1,0 +1,29 @@
+Neo4j, a Swedish-American open-source-powered graph database startup, has raised $80 million in a Series E round that brings its total capital raised to date to $160 million. (More on what a graph database is here.)
+
+Neo4j’s new round was led by One Peak Partners and Morgan Stanely Expansion Capital (seeing investment banks into venture rounds isn’t new). The firm did note in a release that several of its preceding investors took part in the round, including Eight Roads, Greenbridge, and Creandum.
+
+While Neo4j’s new Series E is notable, its sector is almost more so.
+
+Open source is having a moment. After Microsoft spent huge dollars buying GitHub, committing its patents to open source projects a little later, IBM spent more money than anyone would have thought possible to buy Red Hat, the archetypal enterprise-commercial open source company.
+
+In light of Red Hat’s news and his company’s new capital infusion, I spoke with Neo4j’s CMO, Lance Walter, about the space. He agreed that while Red Hat and Neo4j are different (operating systems compared to graph databases), open source was doing well.
+
+Notably, Crunchbase News research from 2017 underscores how well the sector has performed in recent years. The recent M&A and venture investment in and around open sources should, therefore, be less surprising than it feels.
+
+I had our own Jason Rowley update the key chart in that so we could share it here:
+
+Narrowing back to the startup in question, Walter cited the Neo4j developer community as a driver of the firm’s success so far. Open source-focused companies, provided that they work with popular technology, can benefit from having external developers work on the code from which they generate revenue. When it works, the enterprise open source model is pretty neat.
+
+It’s been almost exactly two years since Neo4j raised its Series D, a $36 million round raised from Eight Roads, Creandum, Greenbridge, and Sunstone Capital.
+
+That means that the startup waited an extra six months longer than the normal 18 months venture funding pace that we generally see. That can imply that the startup in question was more capital efficient than some of its peers. If you can stretch your capital out another quarter or two, you can put more revenue to work when you raise.
+
+My impression after talking with Neo4js’s CMO was that the firm has taken a rational approach to growth so far, keeping it as a focus but avoiding some pitfalls that some venture-backed companies run into (for example: raising huge rounds, and pushing them through lackluster sales operations leading to expensive ARR growth at the cost of extreme dilution).
+
+On that point, Walter said, during a discussion of the firm’s new round, that Neo4j will grow at a “rate that doesn’t explode in [its] face,” which is probably the best encapsulation of “we are going to grow as fast as we can without wasting money” that I’ve heard recently.
+
+Of course, the company now has more capital than ever, so it will have the standard set of risks in front of it that fresh cash brings, including focus crisis, choice paralysis, and the lot. How well it navigates its newfound wealth will be the usual balancing act that all startups manage when their cash-on-hand spikes to new heights.
+
+What Neo4j has in its favor is high contract value (starting sales are “low six-figures,” per Walter), and traction in sectors that are driving noise in technology. The firm’s tech can work in the AI and ML space, along with analytics and other data-intensive work.
+
+More when we have it, but Neo4j is worth keeping an eye on.

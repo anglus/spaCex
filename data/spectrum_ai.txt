@@ -1,0 +1,27 @@
+IBM is expanding its capabilities around artificial intelligence with a converged system that includes the giant tech vendor’s Spectrum Scale scale-out file system and Nvidia’s GPU-based DGX-1 supercomputer to enable organizations to more easily access the massive amounts of data that are crucial for running such workloads.
+
+The introduction of IBM Spectrum AI with Nvidia DGX marks the latest development in a partnership between IBM and Nvidia that reaches from supercomputers to the cloud. It also is the latest move by a vendor to create systems optimized to run workloads that leverage AI and such subsets as machine learning and deep learning.
+
+“The choice of storage is critical to [organizations’] success,” Eric Herzog, vice president of product marketing and management for IBM storage systems, wrote in a blog post. “Data scientists need access to large, readily accessible quantities of data supported by a wide variety of data tools. High-performance, multi-protocol shared storage for the latest AI and data tools, like TensorFlow, PyTorch and Spark, gives data teams faster access to more data with less complexity, lower costs and reliability.”
+
+The new converged system can “support the AI data pipeline from data preparation to training, inference and archive,” Herzog wrote.
+
+The demand for technologies to more easily run AI, machine learning and deep learning workloads continues to grow. IBM officials pointed to numbers by IDC analysts that show that by 2019, 40 percent of digital transformation initiatives will use AI services, and that two years later, 75 percent of commercial enterprise apps will use AI. In addition, more than 90 percent of consumers will interact with customer support bots by 2021 and more than 50 percent of new industrial robots will leverage the technology.
+
+Gartner analysts have said the business value worldwide derived from AI will hit $1.2 trillion this year, a 70 percent increase over 2017. It will grow to $3.9 trillion in 2022, they said.
+
+IBM and other infrastructure and component makers are rapidly building out their portfolios of AI-optimized systems and tools to help businesses get their arms around AI and machine learning. Storage vendors NetApp and Pure Storage both this year unveiled storage offerings aimed at AI workloads and leveraging Nvidia’s DGX-1 supercomputers. In addition, Cisco in September unveiled the UCS C480 ML rack server, a converged system designed to accelerate deep learning workloads that is powered by not only two Intel “Skylake” Scalable Processors but also eight of Nvidia’s high-end Tesla V100 graphics cards, which are connected by the GPU maker’s high-speed NVLink interconnect.
+
+IBM has been aggressively targeting the AI space over the past few years—including announcing earlier this year that it was putting Nvidia’s V100 GPUs on to its IBM Cloud to accelerate AI and high-performance computing (HPC) apps. For its part, Nvidia officials have made AI, machine learning and deep learning a cornerstone of the company’s roadmap.
+
+The software-defined Spectrum AI with Nvidia DGX can be deployed in a range of configurations that span from a single IBM Elastic Storage Server (ESS) to support a few DGX-1 servers to a rack of nine servers with 72 V100 Tensor Core GPUs to multi-rack offerings.
+
+“Unlike traditional storage arrays, the highly parallel IBM Spectrum Scale scales practically linearly with random read data throughput requirements to feed multiple GPUs,” IBM’s Herzog wrote. “The result is a solution that delivers AI workload performance from shared storage comparable to that of local RAM disk.”
+
+The converged solution also includes Nvidia’s DGX software stack, which is optimized to drive GPU performance for machine learning training. In addition, it will feature Nvidia’s RAPIDS open-source framework, introduced in October, for accelerating data science and machine learning workflows and the GPU maker’s NGC container repository of GPU-optimized applications.
+
+“IBM software-defined storage offers performance, flexibility and extensibility for the AI data pipeline,” Tony Paikday, director of product marketing for the Nvidia’s DGX portfolio, wrote in a blog post. “Nvidia DGX-1 provides the fastest path to machine learning and deep learning. Pairing the two results in an integrated, turnkey AI infrastructure solution with proven productivity, agility and scalability.”
+
+The DGX-1 holds eight V100 GPUs that includes Tensor Cores optimized to run machine learning workloads. According to Nvidia officials, the supercomputer delivers more than a petaflop of compute performance.
+
+Some of the technologies from both companies used in the new AI converged system also are found in Summit, the world’s fastest supercomputer, according to the twice-yearly Top500 list of the most powerful systems. That includes IBM’s Spectrum Scale management software. In addition, Summit not only includes 9,216 Power9 chips but also 27,648 Nvidia Voltage GV100 GPUs. The two companies also partnered on the Sierra supercomputer, which ranks second on the list.
