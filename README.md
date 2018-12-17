@@ -8,7 +8,17 @@ A distributed NLP pipeline for Elixir using spaCy
 
 2. spaCy - NLP library for Python
 
-3. Elixir programming language (1.3.4 or greater) and the Mix build tool 
+```$ pip install -U spacy```
+
+   -OR-
+
+```$ conda install -c conda-forge spacy```
+
+   You may also need to download an English language model:
+
+```$ python -m spacy download en```
+
+3. Elixir programming language (1.3.4 or greater) and the Mix build tool. [Instructions](https://elixir-lang.org/install.html) vary by operating system. 
 
 ## Installation
 
