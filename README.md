@@ -28,11 +28,21 @@ A distributed NLP pipeline for Elixir using spaCy
 
 ```$ sudo cp -r deps/erlport/priv/python3/erlport/ /usr/lib64/python3.5/site-packages/```
 
-4. (Optional) Edit lib/spaCex.ex to change the number of workers:
+4. (Optional) Edit lib/spaCex.ex to change the number of workers (should probably be less than the number of CPU threads available to you):
 
 ```{:size, 6},```
 
-5. Run application:
+5. (Optional) Use your own input data:
+
+```$ cp /path/to/my_data.txt data/```
+
+```$ vi lib/run.exs```
+
+```# Input file
+infile = "./data/my_data.txt"
+```
+
+6. Run application:
 
 ```$ mix run lib/run.exs```
 
